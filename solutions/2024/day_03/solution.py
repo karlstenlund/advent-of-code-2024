@@ -35,4 +35,3 @@ class Solution(TextSolution):
                 a, b = map(int, match.groups())
                 acc += a * b
         return acc
-
